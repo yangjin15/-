@@ -1,0 +1,37 @@
+{
+  "url": "https://www.bilibili.com/",
+  "size": 127227,
+  "time": 0.5205807685852051,
+  "status": "成功",
+  "performance": {
+    "dns_time": 0.0,
+    "connect_time": 0,
+    "response_time": 0.3610503673553467,
+    "download_time": 0.0,
+    "parse_time": 0.1595304012298584,
+    "total_time": 0.5235753059387207,
+    "image_count": 0,
+    "text_length": 818,
+    "html_size": 127227,
+    "status_code": 200
+  },
+  "domain": "www.bilibili.com",
+  "content_type": "text/html; charset=utf-8",
+  "status_code": 200,
+  "headers": {
+    "Date": "Tue, 24 Dec 2024 08:53:25 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "support": "nantianmen",
+    "Set-Cookie": "b_nut=100; path=/; expires=Wed, 24 Dec 2025 08:53:24 GMT; domain=.bilibili.com",
+    "server-timing": "render;dur=223,total;dur=246",
+    "Vary": "Origin,Accept-Encoding",
+    "Content-Encoding": "gzip",
+    "Expires": "Tue, 24 Dec 2024 08:53:24 GMT",
+    "Cache-Control": "no-cache",
+    "X-Cache-Webcdn": "BYPASS from blzone03"
+  },
+  "text": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili 首页 番剧 直播 游戏中心 会员购 漫画 赛事 下载客户端 动态 热门 番剧 电影 国创 电视剧 综艺 纪录片 动画 游戏 鬼畜 音乐 舞蹈 影视 娱乐 知识 科技 资讯 美食 生活 汽车 时尚 运动 动物圈 VLOG 搞笑 单机游戏 虚拟UP主 公益 公开课 更多 专栏 直播 活动 课堂 社区中心 新歌热榜 盛世美颜！美女齐聚陪你共赴新年 81.7万 2267 22:57 河南某建材厂年轻工人情况考察报告 6万点赞 这是个令人疑惑的星球 · 12-19 35.1万 958 08:32 3888包下一整个蟹塘，今天是赚还是亏？ 小文哥吃吃吃 · 12-22 19.1万 663 30:38 【年度补文指南】:2024年度完结网文佳作最TOP!今年各个分类的年度完结作品到底是谁？哪本神作才是今年年度完结最佳？! 网文比趣鸽 · 20小时前 39.1万 2438 15:42 雷军还是谦虚! 小米SU7哈尔滨冬季续航测试表现太炸裂了！「我在东北开电车-小米SU7」 字幕君GOUBA · 12-21 39.7万 4814 17:20 男子开车强行载警员回家，不料遭警员开6枪击毙！EP349 细细的蓝线11 · 12-22 23万 370 03:15 碟中谍9由中国女素人接任？ 1万点赞 有趣的小罐书 · 12-22 广告 终于知道大家为什么喜欢用AI了 46万人感兴趣 20.1万 1068 12:32 2024番茄九大完结神作，《十日终焉》番茄第三，黑马神作烧脑必看。 网络小说排行榜 · 12-22 8万 874 11:19 不值6000，不当韭菜！华为Mate 70标准版测评，华为的刀法还是那么精湛！ 机拍朱老师 · 22小时前 45.3万 1158 24:05 170万人打8.9分,【绿皮书】的隐藏故事比你想得还有趣!万字拉片深度拆解① _风过大泽 · 12-20",
+  "text_length": 818
+}
